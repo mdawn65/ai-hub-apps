@@ -14,7 +14,7 @@ from qai_hub_models.utils.onnx.torch_wrapper import OnnxModelTorchWrapper
 from transformers import CLIPTokenizer
 
 DEFAULT_PROMPT = "A girl taking a walk at sunset"
-HF_REPO = "stabilityai/stable-diffusion-2-1-base"
+HF_REPO = "RedbeardNZ/stable-diffusion-2-1-base"
 
 
 def main():
